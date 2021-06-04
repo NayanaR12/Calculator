@@ -1,0 +1,7 @@
+C:\core webapp\Azure\AzureFunction\Calculatorapp\bin\Debug\Calculatorapp.exe.config
+C:\core webapp\Azure\AzureFunction\Calculatorapp\bin\Debug\Calculatorapp.exe
+C:\core webapp\Azure\AzureFunction\Calculatorapp\bin\Debug\Calculatorapp.pdb
+C:\core webapp\Azure\AzureFunction\Calculatorapp\obj\Debug\Calculatorapp.csprojAssemblyReference.cache
+C:\core webapp\Azure\AzureFunction\Calculatorapp\obj\Debug\Calculatorapp.csproj.CoreCompileInputs.cache
+C:\core webapp\Azure\AzureFunction\Calculatorapp\obj\Debug\Calculatorapp.exe
+C:\core webapp\Azure\AzureFunction\Calculatorapp\obj\Debug\Calculatorapp.pdb
